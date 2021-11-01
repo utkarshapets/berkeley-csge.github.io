@@ -27,6 +27,8 @@
   c_cate: officer
   c_role: Social Chair
   pic_url: static/img/officers/utkarsha.png
+  homepage: https://people.eecs.berkeley.edu/~uagwan/
+  email: uagwan@berkeley.edu
 
 - name: Chloe Hsu
   c_affil: ucb
