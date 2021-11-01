@@ -1,0 +1,56 @@
+- name: Sarah Wooders
+  c_affil: ucb
+  c_cate: officer
+  c_role: President
+  pic_url: static/img/officers/sarah.png
+
+- name: Karl Krauth
+  c_affil: ucb
+  c_cate: officer
+  c_role: President
+  pic_url: static/img/officers/karl.png
+
+- name: Peter Schafhalter
+  c_affil: ucb
+  c_cate: officer
+  c_role: Treasurer
+  pic_url: static/img/officers/peter.png
+
+- name: Jessy Lin
+  c_affil: ucb
+  c_cate: officer
+  c_role: Social Chair
+  pic_url: static/img/officers/jessy.png
+
+- name: Utkarsha Agwan
+  c_affil: ucb
+  c_cate: officer
+  c_role: Social Chair
+  pic_url: static/img/officers/utkarsha.png
+
+- name: Chloe Hsu
+  c_affil: ucb
+  c_cate: officer
+  c_role: Seminar Chair
+  pic_url: static/img/officers/chloe.png
+
+- name: Marius Wiggert
+  c_affil: ucb
+  c_cate: officer
+  c_role: Seminar Chair
+  pic_url: static/img/officers/marius.png
+
+- name: Justin Wong
+  c_affil: ucb
+  c_cate: officer
+  c_role: Seminar Chair
+  pic_url: static/img/officers/justin.png
+
+- name: Silvery Fu
+  c_affil: ucb
+  c_cate: officer
+  c_role: Administrator
+  pic_url: static/img/officers/silvery.jpg
+  homepage: https://people.eecs.berkeley.edu/~silvery/
+  email: silvery@eecs.berkeley.edu
+
